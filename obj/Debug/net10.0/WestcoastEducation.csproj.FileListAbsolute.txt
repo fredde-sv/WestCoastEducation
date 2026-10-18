@@ -1,0 +1,15 @@
+C:\Users\fredr\skola\westcoasteducation\obj\Debug\net10.0\WestcoastEducation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredr\skola\westcoasteducation\obj\Debug\net10.0\WestcoastEducation.AssemblyInfoInputs.cache
+C:\Users\fredr\skola\westcoasteducation\obj\Debug\net10.0\WestcoastEducation.AssemblyInfo.cs
+C:\Users\fredr\skola\westcoasteducation\obj\Debug\net10.0\WestcoastEducation.csproj.CoreCompileInputs.cache
+C:\Users\fredr\skola\westcoasteducation\obj\Debug\net10.0\WestcoastEducation.sourcelink.json
+C:\Users\fredr\skola\WestcoastEducation\bin\Debug\net10.0\WestcoastEducation.exe
+C:\Users\fredr\skola\WestcoastEducation\bin\Debug\net10.0\WestcoastEducation.deps.json
+C:\Users\fredr\skola\WestcoastEducation\bin\Debug\net10.0\WestcoastEducation.runtimeconfig.json
+C:\Users\fredr\skola\WestcoastEducation\bin\Debug\net10.0\WestcoastEducation.dll
+C:\Users\fredr\skola\WestcoastEducation\bin\Debug\net10.0\WestcoastEducation.pdb
+C:\Users\fredr\skola\WestcoastEducation\obj\Debug\net10.0\WestcoastEducation.dll
+C:\Users\fredr\skola\WestcoastEducation\obj\Debug\net10.0\refint\WestcoastEducation.dll
+C:\Users\fredr\skola\WestcoastEducation\obj\Debug\net10.0\WestcoastEducation.pdb
+C:\Users\fredr\skola\WestcoastEducation\obj\Debug\net10.0\WestcoastEducation.genruntimeconfig.cache
+C:\Users\fredr\skola\WestcoastEducation\obj\Debug\net10.0\ref\WestcoastEducation.dll
